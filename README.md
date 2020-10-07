@@ -1,0 +1,2 @@
+# NotitiaAI
+For learning purposes
